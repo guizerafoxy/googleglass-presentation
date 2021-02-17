@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08ae04e0-cd29-485b-aeb3-a6c6b41e61da" name="Default Changelist" comment="Primeiro commit">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/projeto-glass-html5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Musica.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/estilo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/fotos.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/music.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_css/specs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_fonts/bubblegum-sans-regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_fonts/computer-font.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/audio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/botao-enviar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-bateria.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-camera.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-tela.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/det-touch.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/especificacoes-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/especificacoes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/fotos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/galeria-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-esquema-marcado.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-esquema.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-logo-grd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-logo-med.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-logo-peq.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-grd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-med.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-oculos-preto-peq.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-quadro-homem-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-quadro-homem.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/glass-quadro-mulher.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-contato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-endereco.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-mensagem.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/icone-pagamento.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/jornal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/lampada-acesa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/lampada-apagada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/lampada-quebrada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/logo-google-gig.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/mao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/multimidia.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/radio-tv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/simbolo-contato.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video-mini01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video-mini02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video-mini03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_imagens/video.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/00-divisoes-semanticas.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/01-index.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/02-specs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/03-fotos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/04-multimidia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_interface/05-fale-conosco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/audio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_javascript/funcoes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_media/2009-lovers-carvings-bibio.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_media/getting-started.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_media/how-it-feels.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_media/one-day.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/fale-conosco-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/fotos-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/google-glass-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/index-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/multimidia-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_textos/specs-txt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fale-conosco.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fotos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-glass.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multimidia.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/specs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testejs01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testejs02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testejs03.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/index.html" />
+    </disable_hints>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mcAS3A5eXWFQbl7PyjV4bwNiIb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Console" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guize\OneDrive\Documentos\projetosPHP\projeto-glass-html5" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08ae04e0-cd29-485b-aeb3-a6c6b41e61da" name="Default Changelist" comment="" />
+      <created>1609782501309</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609782501309</updated>
+      <workItem from="1609782502426" duration="7177000" />
+      <workItem from="1609790823379" duration="150000" />
+      <workItem from="1609861086162" duration="9914000" />
+      <workItem from="1609948889592" duration="5717000" />
+      <workItem from="1609955550384" duration="7706000" />
+      <workItem from="1610035343964" duration="11013000" />
+      <workItem from="1610379401907" duration="12662000" />
+      <workItem from="1610466544048" duration="13573000" />
+      <workItem from="1610555028660" duration="12241000" />
+      <workItem from="1610640127869" duration="1088000" />
+      <workItem from="1610642234933" duration="3395000" />
+      <workItem from="1610646725551" duration="113000" />
+      <workItem from="1610646848314" duration="35000" />
+      <workItem from="1610646892783" duration="7013000" />
+      <workItem from="1610725317885" duration="12166000" />
+      <workItem from="1610984349392" duration="13310000" />
+      <workItem from="1611072285605" duration="9573000" />
+      <workItem from="1611087537575" duration="100000" />
+      <workItem from="1611087648516" duration="51000" />
+      <workItem from="1611087708571" duration="1015000" />
+      <workItem from="1611159400870" duration="1947000" />
+      <workItem from="1611161373773" duration="129000" />
+      <workItem from="1611161518641" duration="399000" />
+      <workItem from="1611161929993" duration="451000" />
+      <workItem from="1611162394118" duration="741000" />
+      <workItem from="1611163150929" duration="540000" />
+      <workItem from="1611163705405" duration="9142000" />
+      <workItem from="1611245362023" duration="13417000" />
+      <workItem from="1611677387999" duration="11205000" />
+      <workItem from="1611694734026" duration="264000" />
+      <workItem from="1611849833748" duration="1776000" />
+      <workItem from="1611851929436" duration="11085000" />
+      <workItem from="1611934643492" duration="737000" />
+      <workItem from="1611940539360" duration="8831000" />
+      <workItem from="1612453620259" duration="3563000" />
+      <workItem from="1612463836365" duration="7909000" />
+      <workItem from="1612887764703" duration="309000" />
+      <workItem from="1612888836526" duration="10460000" />
+      <workItem from="1612973387690" duration="13599000" />
+      <workItem from="1613059488274" duration="303000" />
+      <workItem from="1613060146522" duration="12769000" />
+      <workItem from="1613077141254" duration="157000" />
+      <workItem from="1613144154141" duration="6593000" />
+      <workItem from="1613150853148" duration="2735000" />
+      <workItem from="1613155211452" duration="4716000" />
+      <workItem from="1613577845631" duration="9472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

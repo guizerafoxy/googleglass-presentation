@@ -1,0 +1,212 @@
+@charset "UTF-8";
+
+/** Fotos Formulario **/
+
+#fotoContato {
+    background: url("../_imagens/icone-contato.png") no-repeat;
+    background-position: right bottom;
+}
+
+img#telEmail {
+    display: block;
+    position: absolute;
+    right: 445px;
+    bottom: 5px;
+}
+
+#fotoEndereco {
+    background: url("../_imagens/icone-endereco.png") no-repeat ;
+    background-position: right bottom;
+    width: 500px;
+    margin-left: 180px;
+}
+
+#fotoMensagem {
+    background: url("../_imagens/icone-mensagem.png") no-repeat;
+    background-position: right bottom;
+    width: 500px;
+    margin-left: 180px;
+}
+
+#carteira {
+    background: url("../_imagens/icone-pagamento.png") no-repeat;
+    background-position: right bottom;
+    width: 500px;
+    margin-left: 180px;
+}
+
+/** titulos **/
+
+fieldset legend#tituloSombreado {
+    font-size: 15pt;
+    color: #545454;
+    text-shadow: 1px 1px 5px #636363;
+}
+
+fieldset legend#tituloEndereco {
+    font-size: 15pt;
+    color: #545454;
+    text-shadow: 1px 1px 5px #636363;
+}
+
+fieldset legend#tituloMsg {
+    font-size: 15pt;
+    color: #545454;
+    text-shadow: 1px 1px 5px #636363;
+}
+
+fieldset legend#tituloGG {
+    font-size: 15pt;
+    color: #545454;
+    text-shadow: 1px 1px 5px #636363;
+}
+
+fieldset {
+    margin-bottom: 40px;
+}
+
+/** senha **/
+
+fieldset #espacoSenha {
+    margin-top: -20px;
+}
+
+/** email **/
+
+fieldset #bordaEmail {
+    display: block;
+    border-top: 1px solid #9e9999;
+}
+
+/** genero **/
+
+fieldset #espacoGenero {
+    margin-top: -15px;
+    margin-bottom: -10px;
+}
+
+fieldset #tGeneroSelecionar {
+    display: block;
+    float: left;
+    margin-right: -20px;
+}
+
+fieldset #BordaGenero {
+    margin-right: 665px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding-right: 50px;
+    margin-top: 30px;
+}
+
+fieldset legend#espacoGenero {
+    font-size: 15pt;
+    color: #545454;
+    text-shadow: 1px 1px 5px #636363;
+}
+
+fieldset #espacoFeminino {
+    margin-top: -15px;
+    margin-bottom: 5px;
+    margin-right: 10px;
+}
+
+/**  Data de nascimento **/
+
+
+fieldset #dataNascimento {
+    display: block;
+    position: relative;
+    left: -30px;
+}
+
+fieldset #bordaEndereco {
+    margin-left:-30px;
+}
+
+/** Numero da Casa **/
+
+#numeroCasa {
+    display: block;
+    position: relative;
+    left: 290px;
+    top: -35px;
+}
+
+#tNumeroDaCasa {
+    width: 60px;
+}
+
+/** Estado **/
+
+#estadoCima {
+    display: block;
+    position: relative;
+    left: -30px;
+    top: -25px;
+}
+
+/** Cidade **/
+
+#cidadeCima {
+    display: block;
+    position: relative;
+    left: -30px;
+    top: -10px;
+}
+
+/** Mensagem contato **/
+
+#ladoUrgencia {
+    display: block;
+    margin-left: -30px;
+}
+
+#ladoMensagem {
+    margin-left: -25px;
+}
+
+#mensagem {
+    margin-left: 30px;
+    margin-top: 10px;
+    padding-bottom: 80px;
+}
+
+/** final formulario **/
+
+#comprarOculos {
+    margin-left: -30px;
+}
+
+#posicaoCor {
+    margin-left: -30px;
+}
+
+#posicaoQuantidade {
+    margin-left: -30px;
+}
+
+#quantidadeOculos {
+    width: 40px;
+}
+
+#posicaoPagamento {
+    margin-left: -30px;
+}
+
+#posicaoEnviar {
+    margin-left: 350px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
